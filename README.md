@@ -3,6 +3,9 @@
 **Bold text**
 
 `Git` 사용법
+```
+code block
+```
 
 
 |기능|설명|
