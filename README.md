@@ -1,10 +1,10 @@
-# gitmainproject
+# 내부폴더 read.me
 
-**Bold text**
+**블록 텍스트**
 
 `Git` 사용법
 ```
-code block
+미리보기
 ```
 
 
